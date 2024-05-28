@@ -1,5 +1,7 @@
-https://pixel-profile-ui.vercel.app/api/github-stats?username=mhaiql&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=road_trip&theme=road_trip&color=%23ffffffFF
-
+<picture decoding="async" loading="lazy"> 
+ <img alt="stats" src="https://pixel-profile-ui.vercel.app/api/github-stats?username=mhaiql&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=road_trip&theme=road_trip&color=%23ffffffFF
+">
+</picture>
 <h1 align="center">Hi 👋, I'm Haiqal</h1>
 <h3 align="center">A full stack Website Developer from Jakarta</h3>
 
