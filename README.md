@@ -1,8 +1,4 @@
-[<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=<mhaiql>&theme=summer">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=<mhaiql>&screen_effect=true&theme=blue_chill">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=<mhaiql>&theme=summer">
-</picture>](https://pixel-profile-ui.vercel.app/api/github-stats?username=mhaiql&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=road_trip&theme=road_trip&color=%23ffffffFF)
+https://pixel-profile-ui.vercel.app/api/github-stats?username=mhaiql&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=road_trip&theme=road_trip&color=%23ffffffFF
 
 <h1 align="center">Hi 👋, I'm Haiqal</h1>
 <h3 align="center">A full stack Website Developer from Jakarta</h3>
