@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Haiqa;</h1>
+<h1 align="center">Hi 👋, I'm Haiqal</h1>
 <h3 align="center">A full stack Website Developer from Jakarta</h3>
 
 - 📫 How to reach me **haiqal.muhammadd5@gmail.com**
