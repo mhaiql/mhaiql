@@ -1,3 +1,5 @@
+![banner](./banner.png)
+
 <h1 align="center">Hi 👋, I'm Haiqal</h1>
 <h3 align="center">A full stack Website Developer from Jakarta</h3>
 
